@@ -1,6 +1,4 @@
 ﻿# SPOTILYTICS
-Here’s a description you could use for your GitHub project:
-
 Billboard Hot 100 Playlist Creator
 
 A Python project that scrapes Billboard’s Hot 100 chart for any specified year and date, then automatically creates a playlist in Spotify with the songs from that chart. This project combines web scraping and API integration to deliver a personalized throwback experience, recreating the top hits of any chosen date.
