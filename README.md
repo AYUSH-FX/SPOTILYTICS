@@ -13,7 +13,7 @@ Features
 Tech Stack
 
 	•	Python: For scripting and data handling.
-	•	BeautifulSoup/Selenium: (Specify which one you used) to scrape data from Billboard.
+	•	BeautifulSoup/Selenium: BeautifulSoup to scrape data from Billboard.
 	•	Spotify API: For creating and populating playlists on Spotify.
 
 Usage
